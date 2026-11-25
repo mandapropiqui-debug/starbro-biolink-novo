@@ -1,0 +1,17 @@
+# StarBro Sport Tech
+
+> A tecnologia dos profissionais. No seu jogo. Tecnologia e IA para elevar o desempenho no tênis, no pickleball e no padel.
+
+Contato principal: WhatsApp +55 11 5286-8321 (atendimento automatizado, agenda reunião comercial) https://wa.me/551152868321
+E-mail: contato@starbrosport.com
+Instagram: https://www.instagram.com/starbro.sport
+Site: https://site.starbrosport.com
+
+## Soluções
+- Court Lite: solução própria, já roda no app. Transmissão ao vivo no YouTube, VAR na hora, marcar momentos, melhores momentos.
+- Court Pro by Wingfield: estatísticas e vídeo do jogo; Wingfield Box no lugar de um poste da rede, aprovado pela ITF.
+- Court Premium by Zenniz: dados em tempo real no padrão Grand Slam.
+- Court AI: app da StarBro, em breve. Lista de espera pelo WhatsApp.
+
+## Para quem
+Jogador social, jogador em formação ou competitivo, treinador, academia, clube, federação, torneio e marcas.
